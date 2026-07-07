@@ -49,7 +49,7 @@ This project is a console-based Java application for managing students, courses,
 
 - **JVM (Java Virtual Machine):**
   - An abstract computing machine that enables a computer to run a Java program.
-  - It interprets the compiled Java bytecode and translates it into the native machine code of the underlying operating system.
+  - It interprets with the compiled Java bytecode and translates it into the native machine code of the underlying operating system.
   - This is the core component that makes Java "platform-independent."
 
 - **JRE (Java Runtime Environment):**
